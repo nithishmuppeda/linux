@@ -34,3 +34,4 @@
 ### du (space usage)  
 ### free  
 ### whois  
+### git checkout -b ( create the branch)
