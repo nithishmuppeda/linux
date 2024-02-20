@@ -35,3 +35,6 @@
 ### free  
 ### whois  
 ### git checkout -b ( create the branch)
+### docker network create (it is use to create network)
+### docker logs id/name (use to check id and password)
+### 
