@@ -5,7 +5,7 @@
 ### cd    (change directory)  
 ### cd .. (previous directoty)  
 
-### mkdir ( this can use to create the file )  
+### mkdir ( this can use to create the folder )  
 ### rm    (it is use to delete the file)  
 ### rm -r ( it is use delete folder)  
 ### cat > text file( this is use to create some simple text file)  
